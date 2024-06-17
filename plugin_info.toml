@@ -2,7 +2,7 @@
 
 [plugin-info]
 SHORT_PLUGIN_NAME = 'fk'
-# (pymodaq_plugins_template become pymodaq_plugins_daqmx for instance)
+# (pymodaq_plugins_fk become pymodaq_plugins_daqmx for instance)
 
 package-url = 'https://github.com/quantumm/pymodaq_plugins_fk'
 description = 'Fake plugin'
