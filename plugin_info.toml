@@ -4,11 +4,11 @@
 SHORT_PLUGIN_NAME = 'fk'
 # (pymodaq_plugins_fk become pymodaq_plugins_daqmx for instance)
 
-package-url = 'https://github.com/quantumm/pymodaq_plugins_fk'
+package-url = 'https://github.com/fakequantumm/pymodaq_plugins_fk'
 description = 'Fake plugin'
 
-author = 'Author Name'
-author-email = 'Author email'
+author = 'Fake quantumm'
+author-email = 'quantummm@protonmail.com'
 license = 'MIT'
 
 [plugin-install]
