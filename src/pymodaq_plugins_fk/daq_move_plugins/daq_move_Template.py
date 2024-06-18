@@ -139,7 +139,7 @@ class DAQ_Move_Template(DAQ_Move_base):
         self.target_value = value + self.current_position
         value = self.set_position_relative_with_scaling(value)
 
-        ## TODO for your custom plugin
+        ## TODO for your custom plugin eaueiaiuea
         raise NotImplemented  # when writing your own plugin remove this line
         self.controller.your_method_to_set_a_relative_value(value.value())  # when writing your own plugin replace this line
         self.emit_status(ThreadCommand('Update_Status', ['Some info you want to log']))
